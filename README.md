@@ -6,9 +6,7 @@
 ### 📈 GitHub Activity Graph:
 <!-- [![zuiyangqingzhou's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zuiyangqingzhou&theme=github-compact)](https://github.com/zuiyangqingzhou/github-readme-activity-graph) -->
 ![zuiyangqingzhou's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![jack's github stats](https://github-readme-stats.vercel.app/api?username=zuiyangqingzhou&show_icons=true&theme=radical&include_all_commits=true) | ![jack's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zuiyangqingzhou&theme=radical&layout=compact) |
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuiyangqingzhou"></img>
 
