@@ -1,19 +1,6 @@
 ### Hi there 👋
-
-<!--
-**zuiyangqingzhou/zuiyangqingzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jack;+Welcome+to+My+Profile!;Over+6+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
@@ -28,12 +15,3 @@ Here are some ideas to get you started:
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake -->
-![](https://github.com/zuiyangqingzhou/zuiyangqingzhou/blob/output/github-contribution-grid-snake.svg)
-
-<!--   skyline 
-<a href="https://skyline.github.com/zuiyangqingzhou/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=zuiyangqingzhou" width="auto"></img>
